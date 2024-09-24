@@ -1,0 +1,114 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Marcelo Maximiano. Java developer with 6 years experience, especialist in legacy systems modernization. I play with success on monolytic application migration to more modern architecture, using a techstack such as Spring Boot and Microservices. I've graduate in A.I. and Machine Learning, besides Information Systems Bachelor's degree. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Globoplay",
+        "startDate": "2021",
+        "description": "Consultant of development at globoplay.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "https://globoplay.globo.com/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJs"
+          },
+          {
+            "class": "devicon-graphql-plain",
+            "name": "GraphQL"
+          }
+        ]
+      },
+      {
+        "title": "SPD Chat",
+        "startDate": "2019",
+      "description": "One of many projects that i've implemented as developer there. This chat using Vuejs have a great support for fallbacks that connects into a interlal network that allows, in a secure way, communication between medic and patients.",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://www.spdata.com.br/",
+        "technologies": [
+          {
+            "class": "devicon-vuejs-original",
+            "name": "VueJs"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Accent Analysis",
+        "startDate": "2023",
+        "description": "A project that puts into practice some of the knowledge you will acquire during a postgraduate degree. Here I use YouTube videos to train a model that identifies Brazilian accents.",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com/MarceloRosendo/accent-analysis",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Thoughtworks",
+        "title": "Developer/Consultant",
+        "years": "2021 - present",
+        "mainTech": [
+          "Java"
+        ],
+        "technologies": [
+          "REST API",
+          "NodeJs",
+          "JavaScript/Typescript",
+          "Microsservices",
+          "Python",
+          "GraphQL",
+          "Azure",
+          "Amazon",
+          "GCP"
+        ]
+      },
+      {
+        "company": "SPDATA",
+        "title": "Software Engineer",
+        "years": "2019 - 2021",
+        "mainTech": [
+          "Java"
+        ],
+        "technologies": [
+          "REST API",
+          "AWS",
+          "Docker",
+          "MongoDB",
+          "VueJs"
+        ]
+      }
+    ]
+  }

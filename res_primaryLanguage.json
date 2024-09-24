@@ -1,0 +1,114 @@
+{
+    "basic_info": {
+      "description_header": "Olá",
+      "description": "👋 Sou Marcelo Maximiano. Desenvolvedor Java com 6 anos de experiência, especializado em modernização de sistemas legados. Atuo com sucesso na migração de aplicações monolíticas para arquiteturas mais modernas, utilizando tecnologias como Spring Boot e microserviços. Sou pós graduado em I.A. e Aprendizado de máquina, além de graduado em Sistemas de Informação. Thank you 💜",
+      "section_name": {
+        "about": "Sobre mim",
+        "projects": "Projetos",
+        "skills": "Skills",
+        "experience": "Experiencia"
+      }
+    },
+    "projects": [
+      {
+        "title": "Globoplay",
+        "startDate": "2021",
+        "description": "Consultor de desenvolvimento no projeto globoplay para Tvs nativas.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "https://globoplay.globo.com/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJs"
+          },
+          {
+            "class": "devicon-graphql-plain",
+            "name": "GraphQL"
+          }
+        ]
+      },
+      {
+        "title": "SPD Chat",
+        "startDate": "2019",
+      "description": "Um de muitos projetos que eu implementei enquanto desenvolvedor por la. Um chat utilizando VueJs e um grande suporte a fallbacks que conectava em uma rede interna e permite, de forma segura, a comunicação entre medicos e pacientes.",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://www.spdata.com.br/",
+        "technologies": [
+          {
+            "class": "devicon-vuejs-original",
+            "name": "VueJs"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Accent Analysis",
+        "startDate": "2023",
+        "description": "Um projeto que coloca em pratica alguns dos conhecimentos que adiquiri durante a pos graduacao. Aqui eu utilizo videos de youtube para treinar um modelo que identifica sotaques do Brasil.",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com/MarceloRosendo/accent-analysis",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Thoughtworks",
+        "title": "Developer/Consultant",
+        "years": "2021 - present",
+        "mainTech": [
+          "Java"
+        ],
+        "technologies": [
+          "REST API",
+          "NodeJs",
+          "JavaScript/Typescript",
+          "Microsservices",
+          "Python",
+          "GraphQL",
+          "Azure",
+          "Amazon",
+          "GCP"
+        ]
+      },
+      {
+        "company": "SPDATA",
+        "title": "Software Engineer",
+        "years": "2019 - 2021",
+        "mainTech": [
+          "Java"
+        ],
+        "technologies": [
+          "REST API",
+          "AWS",
+          "Docker",
+          "MongoDB",
+          "VueJs"
+        ]
+      }
+    ]
+  }
