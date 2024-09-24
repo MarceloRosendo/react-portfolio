@@ -1,23 +1,28 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Marcelo Maximiano",
+      "titles": [ "Back-end Developer", "Native TV Developer", "Dev Team Lead", "Fullstack developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/MarceloRosendo",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/marcelo-maximiano/",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "profile.jpeg"
     },
     "skills": {
       "icons": [
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "65"
+        },
         {
           "name": "HTML 5",
           "class": "devicon-html5-plain",
@@ -29,8 +34,8 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "Vuejs",
+          "class": "devicon-vuejs-plain",
           "level": "80"
         },
         {
@@ -49,18 +54,53 @@
           "level": "75"
         },
         {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
+          "name": "Nodejs",
+          "class": "devicon-nodejs-plain",
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "85"
+        },
+        {
+          "name": "Reactjs",
+          "class": "devicon-react-plain",
+          "level": "85"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "85"
         },
         {
           "name": "MySql",
           "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Mongo",
+          "class": "devicon-mongodb-plain",
+          "level": "60"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-plain",
+          "level": "60"
+        },
+        {
+          "name": "GCP",
+          "class": "devicon-googlecloud-plain",
+          "level": "60"
+        },
+        {
+          "name": "Azure",
+          "class": "devicon-azure-plain",
+          "level": "60"
+        },
+        {
+          "name": "Kafka",
+          "class": "devicon-apachekafka-plain",
           "level": "60"
         }
       ]
