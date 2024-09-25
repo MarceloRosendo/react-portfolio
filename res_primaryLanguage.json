@@ -11,17 +11,33 @@
     },
     "projects": [
       {
-        "title": "Globoplay",
-        "startDate": "2021",
-        "description": "Consultor de desenvolvimento no projeto globoplay para Tvs nativas.",
+        "title": "Accent Analysis",
+        "startDate": "2023",
+        "description": "Um projeto que coloca em pratica alguns dos conhecimentos que adiquiri durante a pos graduacao. Aqui eu utilizo videos de youtube para treinar um modelo que identifica sotaques do Brasil.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/accent/p1.jpg",
+          "images/portfolio/accent/p2.jpeg"
+        ],
+        "url": "https://github.com/MarceloRosendo/accent-analysis",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      },
+      {
+        "title": "k-anon",
+        "startDate": "2022",
+        "description": "Anonimizador de json para bases de dados de testes integrados.",
+        "images": [
+          "images/portfolio/k-anon/p1.png",
+          "images/portfolio/k-anon/p2.png"
         ],
         "url": "https://globoplay.globo.com/",
         "technologies": [
           {
-            "class": "devicon-react-plain",
+            "class": "devicon-nodejs-plain",
             "name": "React"
           },
           {
@@ -43,8 +59,8 @@
         "startDate": "2019",
       "description": "Um de muitos projetos que eu implementei enquanto desenvolvedor por la. Um chat utilizando VueJs e um grande suporte a fallbacks que conectava em uma rede interna e permite, de forma segura, a comunicação entre medicos e pacientes.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/chat/p1.jpg",
+          "images/portfolio/chat/p2.jpeg"
         ],
         "url": "https://www.spdata.com.br/",
         "technologies": [
@@ -55,22 +71,6 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "Accent Analysis",
-        "startDate": "2023",
-        "description": "Um projeto que coloca em pratica alguns dos conhecimentos que adiquiri durante a pos graduacao. Aqui eu utilizo videos de youtube para treinar um modelo que identifica sotaques do Brasil.",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com/MarceloRosendo/accent-analysis",
-        "technologies": [
-          {
-            "class": "devicon-python-plain",
-            "name": "Python"
           }
         ]
       }
@@ -108,6 +108,33 @@
           "Docker",
           "MongoDB",
           "VueJs"
+        ]
+      },
+      {
+        "company": "Dunning",
+        "title": "Developer Intern",
+        "years": "2018 - 2019",
+        "mainTech": [
+          "Java"
+        ],
+        "technologies": [
+          "REST API",
+          "Azure",
+          "Unit/Integration Tests",
+          "SQL Server",
+          "JSP"
+        ]
+      },
+      {
+        "company": "Vallourec",
+        "title": "Intern",
+        "years": "2017 - 2018",
+        "mainTech": [
+          "Excel"
+        ],
+        "technologies": [
+          "VBA",
+          "SQL Server"
         ]
       }
     ]
