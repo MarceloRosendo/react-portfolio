@@ -109,6 +109,33 @@
           "MongoDB",
           "VueJs"
         ]
+      },
+      {
+        "company": "Dunning",
+        "title": "Developer Intern",
+        "years": "2018 - 2019",
+        "mainTech": [
+          "Java"
+        ],
+        "technologies": [
+          "REST API",
+          "Azure",
+          "Unit/Integration Tests",
+          "SQL Server",
+          "JSP"
+        ]
+      },
+      {
+        "company": "Vallourec",
+        "title": "Intern",
+        "years": "2017 - 2018",
+        "mainTech": [
+          "Excel"
+        ],
+        "technologies": [
+          "VBA",
+          "SQL Server"
+        ]
       }
     ]
   }
